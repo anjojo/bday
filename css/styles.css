@@ -70,6 +70,11 @@ h1 em {
   height: 100%;
 }
 
+#video .container h3 {
+  font-family: 'Sacramento', cursive;
+  color:  #fff8d9;
+}
+
 
 /* Playlist Section */
 #playlist {
