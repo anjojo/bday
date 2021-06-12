@@ -66,6 +66,8 @@ h1 em {
 
 .video-greeting {
   border: 10px solid #fff8d9;
+  width: 50%;
+  height: 100%;
 }
 
 
@@ -111,7 +113,7 @@ h1 em {
 
   /* Body Section */
   #body {
-    padding-top: 200px;
+    padding-top: 250px;
     padding-bottom: 50px;
     background-color: #fff8d9;
     text-align: center;
@@ -124,13 +126,23 @@ h1 em {
 
   .giphy-embed {
     float: none;
+    width: 50%;
+    height: 50%;
   }
 
   .meaning-text {
     padding-right: 0px;
     font-size: 1rem;
     line-height: 1.5rem;
-    text-align: left;
+    text-align: center;
   }
+
+  /* Video Section */
+  .video-greeting {
+    border: 10px solid #fff8d9;
+    width: 90%;
+    height: 100%;
+  }
+
 
 }
